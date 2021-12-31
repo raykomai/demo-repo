@@ -1,3 +1,3 @@
 # DEMO
 
-Some great description with emojies
+Some great description with emojies!
